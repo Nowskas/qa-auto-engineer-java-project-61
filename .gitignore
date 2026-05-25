@@ -1,0 +1,23 @@
+# Gradle
+.gradle
+build
+
+# IntelliJ IDEA
+.idea
+*.iml
+out
+
+# macOS
+.DS_Store
+
+# Kotlin/Gradle temporary files
+.kotlin
+
+# Eclipse / other IDE
+.project
+.classpath
+.factorypath
+.settings
+
+# Compiled files
+*.class
