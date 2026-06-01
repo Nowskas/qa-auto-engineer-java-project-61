@@ -4,10 +4,12 @@
  * This generated file contains a sample Java application project to get you started.
  * For more details on building Java & JVM projects, please refer to https://docs.gradle.org/9.4.0/userguide/building_java_projects.html in the Gradle documentation.
  */
+import org.gradle.api.plugins.quality.Checkstyle
 
 plugins {
     // Apply the application plugin to add support for building a CLI application in Java.
     application
+    checkstyle
 
     id("com.github.ben-manes.versions") version "0.54.0"
 }
@@ -46,4 +48,8 @@ tasks.named<Test>("test") {
 
 tasks.getByName("run", JavaExec::class) {
     standardInput = System.`in`
+}
+
+tasks.withType<Checkstyle>().configureEach {
+    configFile = file("config/checkstyle/checkstyle.xml")
 }
