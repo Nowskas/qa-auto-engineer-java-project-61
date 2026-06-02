@@ -4,6 +4,7 @@
  * This generated file contains a sample Java application project to get you started.
  * For more details on building Java & JVM projects, please refer to https://docs.gradle.org/9.4.0/userguide/building_java_projects.html in the Gradle documentation.
  */
+
 import org.gradle.api.plugins.quality.Checkstyle
 
 plugins {
@@ -12,6 +13,15 @@ plugins {
     checkstyle
 
     id("com.github.ben-manes.versions") version "0.54.0"
+    id("org.sonarqube") version "7.3.0.8198"
+}
+
+sonar {
+    properties {
+        property("sonar.projectKey", "Nowskas_qa-auto-engineer-java-project-61")
+        property("sonar.organization", "nowskas")
+    }
+
 }
 
 repositories {
