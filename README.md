@@ -11,5 +11,13 @@
 ### Even Game
 Victory example:
 https://asciinema.org/a/N958FDSCses0db6p
+
 Defeat example:
 https://asciinema.org/a/3TPhQ91ckswWSobq
+
+### Calc Game
+Victory example:
+https://asciinema.org/a/wesfj2AudIb6O9pM
+
+Defeat example:
+https://asciinema.org/a/Vsfh2PqH4Qjekamb
