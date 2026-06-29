@@ -21,3 +21,17 @@ https://asciinema.org/a/wesfj2AudIb6O9pM
 
 Defeat example:
 https://asciinema.org/a/Vsfh2PqH4Qjekamb
+
+### Gcd Game
+Victory example:
+https://asciinema.org/a/r848ZiY83i9Ncd1g
+
+Defeat example:
+https://asciinema.org/a/21L7usl1FAEEgLA4
+
+### Progressi Game
+Victory example:
+https://asciinema.org/a/U5lVM6YlnlHRrUQV
+
+Defeat example:
+https://asciinema.org/a/z3WiOAToY7HMwCXY
