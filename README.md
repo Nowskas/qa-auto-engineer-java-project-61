@@ -29,9 +29,16 @@ https://asciinema.org/a/r848ZiY83i9Ncd1g
 Defeat example:
 https://asciinema.org/a/21L7usl1FAEEgLA4
 
-### Progressi Game
+### Progression Game
 Victory example:
 https://asciinema.org/a/U5lVM6YlnlHRrUQV
 
 Defeat example:
 https://asciinema.org/a/z3WiOAToY7HMwCXY
+
+### Prime Game
+Victory example:
+https://asciinema.org/a/r0FP6tnRwM6p7ftu
+
+Defeat example:
+https://asciinema.org/a/4l4upfAXoHyyiBec
